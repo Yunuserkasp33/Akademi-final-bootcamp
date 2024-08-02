@@ -10,6 +10,7 @@ Takım Elemanları:Yunus Erkasap
 Ürün Açıklaması: Menziline girince takip eden düşman yapay zekası 
 
 Sprint 3
+
 Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
 
 Yapım aşaması ve kullanılan asset ssleri: 
